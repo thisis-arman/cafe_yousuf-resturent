@@ -1,0 +1,8 @@
+
+.featured{
+    background-image: url(../../../../assets/home/featured.jpg);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: darken;
+    /* opacity: 85%; */
+  }
